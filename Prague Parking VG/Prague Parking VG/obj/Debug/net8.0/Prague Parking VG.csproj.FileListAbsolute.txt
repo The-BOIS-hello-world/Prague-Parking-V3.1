@@ -1,0 +1,18 @@
+C:\Users\ollic\source\repos\Prague Parking VG\Prague Parking VG\bin\Debug\net8.0\Prague Parking VG.exe
+C:\Users\ollic\source\repos\Prague Parking VG\Prague Parking VG\bin\Debug\net8.0\Prague Parking VG.deps.json
+C:\Users\ollic\source\repos\Prague Parking VG\Prague Parking VG\bin\Debug\net8.0\Prague Parking VG.runtimeconfig.json
+C:\Users\ollic\source\repos\Prague Parking VG\Prague Parking VG\bin\Debug\net8.0\Prague Parking VG.dll
+C:\Users\ollic\source\repos\Prague Parking VG\Prague Parking VG\bin\Debug\net8.0\Prague Parking VG.pdb
+C:\Users\ollic\source\repos\Prague Parking VG\Prague Parking VG\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ollic\source\repos\Prague Parking VG\Prague Parking VG\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\ollic\source\repos\Prague Parking VG\Prague Parking VG\obj\Debug\net8.0\Prague Parking VG.csproj.AssemblyReference.cache
+C:\Users\ollic\source\repos\Prague Parking VG\Prague Parking VG\obj\Debug\net8.0\Prague Parking VG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ollic\source\repos\Prague Parking VG\Prague Parking VG\obj\Debug\net8.0\Prague Parking VG.AssemblyInfoInputs.cache
+C:\Users\ollic\source\repos\Prague Parking VG\Prague Parking VG\obj\Debug\net8.0\Prague Parking VG.AssemblyInfo.cs
+C:\Users\ollic\source\repos\Prague Parking VG\Prague Parking VG\obj\Debug\net8.0\Prague Parking VG.csproj.CoreCompileInputs.cache
+C:\Users\ollic\source\repos\Prague Parking VG\Prague Parking VG\obj\Debug\net8.0\Prague P.86E145DD.Up2Date
+C:\Users\ollic\source\repos\Prague Parking VG\Prague Parking VG\obj\Debug\net8.0\Prague Parking VG.dll
+C:\Users\ollic\source\repos\Prague Parking VG\Prague Parking VG\obj\Debug\net8.0\refint\Prague Parking VG.dll
+C:\Users\ollic\source\repos\Prague Parking VG\Prague Parking VG\obj\Debug\net8.0\Prague Parking VG.pdb
+C:\Users\ollic\source\repos\Prague Parking VG\Prague Parking VG\obj\Debug\net8.0\Prague Parking VG.genruntimeconfig.cache
+C:\Users\ollic\source\repos\Prague Parking VG\Prague Parking VG\obj\Debug\net8.0\ref\Prague Parking VG.dll
